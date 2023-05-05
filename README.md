@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋, I'm Atharva Dhurwey</h1>
+<p align="center">Yo 👋, I'm Atharva Dhurwey</p>
 <p align="center">A passionate fullstack developer from India</p>
 
 -------------------
