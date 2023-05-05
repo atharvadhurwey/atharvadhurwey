@@ -14,13 +14,12 @@
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
             src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" /></a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php"
-            width="45" height="45" alt="PHP" /></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python"
             width="45" height="45" alt="Python" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
-            src="https://skillicons.dev/icons?i=git"
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git"
             width="45" height="45" alt="Git" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img
+            src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" /></a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img
             src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" /></a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass"
@@ -33,10 +32,16 @@
             src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" /></a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img
             src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django" /></a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php"
+            width="45" height="45" alt="PHP" /></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma"
             width="45" height="45" alt="Figma" /></a>
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img
             src="https://skillicons.dev/icons?i=photoshop" width="45" height="45" alt="Photoshop" /></a>
+    <a href="hhttps://api.flutter.dev/index.html" target="_blank" rel="noreferrer"><img
+            src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" /></a>
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img
+            src="https://skillicons.dev/icons?i=dart" width="45" height="45" alt="Dart" /></a>
 </p>
 
 <p align="center">
