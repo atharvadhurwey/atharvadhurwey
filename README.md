@@ -8,8 +8,6 @@
 * 🧠  I'm learning Flutter and Firebase
 * 🤝  I'm open to collaborating on Websites
 
--------------------
-
 ### Languages & Tools
 
 <p align="center">
