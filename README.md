@@ -4,9 +4,8 @@
 -------------------
 
 * 🌍  I'm based in Betul
-* ✉️  You can contact me at [atharva.dhurwey.2000@gmail.com](mailto:atharva.dhurwey.2000@gmail.com)
-* 🧠  I'm learning Flutter and Firebase
-* 🤝  I'm open to collaborating on Websites
+* 🧠  Currently learning Flutter and Firebase
+* 🤝  Open to collaborating on Websites
 * ⚡  Just a student who loves codeing
 
 ### Languages & Tools
@@ -40,7 +39,7 @@
 </p>
 
 <p align="center">
-    How You Can Reach Me :smile:<br>
+    You Can Find Me On :smile:<br>
     <a href="https://discord.com/users/370531328233570305"><img
             src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"
             alt="Discord"></a>
