@@ -1,5 +1,5 @@
-<p align="center" style="font-size: 100px;">Yo 👋, I'm Atharva Dhurwey</p>
-<p align="center">A passionate fullstack developer from India</p>
+<h1 align="center">Yo 👋, I'm Atharva Dhurwey</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 -------------------
 
