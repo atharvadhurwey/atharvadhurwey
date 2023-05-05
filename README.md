@@ -3,10 +3,12 @@
 
 -------------------
 
+<p align="center">
 * 🌍  I'm based in Betul
 * ✉️  You can contact me at [atharva.dhurwey.2000@gmail.com](mailto:atharva.dhurwey.2000@gmail.com)
 * 🧠  I'm learning Flutter and Firebase
 * 🤝  I'm open to collaborating on Websites
+</p>
 
 ### Languages & Tools
 
