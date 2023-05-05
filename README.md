@@ -33,3 +33,6 @@ Front End Developer
 
 <a href="http://www.github.com/atharvadhurwey"><img src="https://github-readme-stats.vercel.app/api?username=atharvadhurwey&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="atharvadhurwey's GitHub stats" /></a>
 
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:atharvadhurwey"></a>
+</p>
