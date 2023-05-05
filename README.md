@@ -4,10 +4,12 @@
 -------------------
 
 <p align="center">
-* 🌍  I'm based in Betul
-* ✉️  You can contact me at [atharva.dhurwey.2000@gmail.com](mailto:atharva.dhurwey.2000@gmail.com)
-* 🧠  I'm learning Flutter and Firebase
-* 🤝  I'm open to collaborating on Websites
+  <ul>
+    <li> 🌍  I'm based in Betul</li>
+    <li> ✉️  You can contact me at <a href="mailto:atharva.dhurwey.2000@gmail.com">atharva.dhurwey.2000@gmail.com</a></li>
+    <li> 🧠  I'm learning Flutter and Firebase</li>
+    <li> 🤝  I'm open to collaborating on Websites</li>
+  </ul>
 </p>
 
 ### Languages & Tools
