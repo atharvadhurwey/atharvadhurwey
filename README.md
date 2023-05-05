@@ -1,7 +1,5 @@
-Yo 🤘 My name is Atharva Dhurwey
-================================
-
-Front End Developer
+<h1 align="center">Yo 👋, I'm Atharva Dhurwey</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 -------------------
 
 * 🌍  I'm based in Betul
