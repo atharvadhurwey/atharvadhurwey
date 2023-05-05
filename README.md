@@ -1,4 +1,4 @@
-Hi 👋 My name is Atharva Dhurwey
+Yo 🤘 My name is Atharva Dhurwey
 ================================
 
 Front End Developer
