@@ -3,14 +3,11 @@
 
 -------------------
 
-<p align="center">
-  <ul>
-    <li> 🌍  I'm based in Betul</li>
-    <li> ✉️  You can contact me at <a href="mailto:atharva.dhurwey.2000@gmail.com">atharva.dhurwey.2000@gmail.com</a></li>
-    <li> 🧠  I'm learning Flutter and Firebase</li>
-    <li> 🤝  I'm open to collaborating on Websites</li>
-  </ul>
-</p>
+* 🌍  I'm based in Betul
+* ✉️  You can contact me at [atharva.dhurwey.2000@gmail.com](mailto:atharva.dhurwey.2000@gmail.com)
+* 🧠  I'm learning Flutter and Firebase
+* 🤝  I'm open to collaborating on Websites
+* ⚡  Just a student who loves codeing
 
 ### Languages & Tools
 
@@ -42,18 +39,29 @@
             src="https://skillicons.dev/icons?i=photoshop" width="45" height="45" alt="Photoshop" /></a>
 </p>
 
-### Socials
+* 📫  How to reach me:
+    * :octocat: [Github@atharvadhurwey](https://github.com/atharvadhurwey)
+    * :email: [atharva.dhurwey.2000@gmail.com](mailto:atharva.dhurwey.2000@gmail.com)
+    * :camera: [Instagram@senpai.desu.6260](https://www.instagram.com/senpai.desu.6260/)
 
-<p align="left">
-    <a href="https://www.github.com/atharvadhurwey" target="_blank" rel="noreferrer"><img
-            src="https://skillicons.dev/icons?i=github" width="45" height="45" /></a>
-    <a href="https://www.linkedin.com/in/atharva-dhurwey-9b1478202" target="_blank" rel="noreferrer"><img
-            src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a>
+-------------------
+
+<p align="center">
+    <a href="http://www.github.com/atharvadhurwey"><img
+            src="https://github-readme-stats.vercel.app/api?username=atharvadhurwey&theme=tokyonight&show_icons=true"
+            alt="atharvadhurwey's GitHub stats" /></a>
+<p>
+
+<p align="center">
+  <br>
+    <a href="https://github.com/atharvadhurwey" align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvadhurwey&theme=tokyonight&layout=compact"
+            alt="Top Languages" />
+    </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvadhurwey&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-readme-stats.vercel.app/api?username=atharvadhurwey&show_icons=true&theme=tokyonight)
-
-
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:atharvadhurwey"></a>
+<p align="center">
+  <br>
+  <br>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:atharvadhurwey"></a>
+</p>
