@@ -7,6 +7,7 @@
 * 🖥️  See my portfolio at [COMING SOON](http://https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * 🧠  Currently learning Flutter and Firebase
 * 🤝  Open to collaborating on Websites
+* 👨‍💻  Most of my projects are available on <a href="https://github.com/atharvadhurwey">Github</a>
 * ⚡  Just a student who loves codeing
 
 ### Languages & Tools
@@ -45,20 +46,31 @@
 </p>
 
 <p align="center">
-    You Can Find Me On :smile:<br>
-    <a href="https://discord.com/users/370531328233570305"><img
-            src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"
-            alt="Discord"></a>
-    <a href="mailto:atharva.dhurwey.2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="Gmail"></a>
-    <a href="https://www.linkedin.com/in/atharva-dhurwey-9b1478202"><img
-            src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"
-            alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/senpai.desu.6260/"><img
-            src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-            alt="Instagram"></a>
-    <a href="https://github.com/atharvadhurwey"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"
-            alt="Github"></a>
+    <emphasis>Y O U &nbsp; C A N &nbsp; F I N D &nbsp; M E &nbsp; ON &nbsp; 😁</emphasis><br>
+    <a href="https://discord.com/users/370531328233570305">
+        <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"
+            alt="Discord">
+    </a>
+    <a href="mailto:atharva.dhurwey.2000@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"
+            alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/atharva-dhurwey-9b1478202">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"
+            alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/senpai.desu.6260/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+            alt="Instagram">
+    </a>
+    <a href="https://github.com/atharvadhurwey">
+        <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"
+            alt="Github">
+    </a>
+    <a href="https://leetcode.com/senpaidesu6260/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"
+            alt="leetcode">
+    </a>
 </p>
 
 -------------------
@@ -78,7 +90,6 @@
 </p>
 
 <p align="center">
-  <br>
-  <br>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:atharvadhurwey"></a>
+    <br><br>
+    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:atharvadhurwey"></a>
 </p>
