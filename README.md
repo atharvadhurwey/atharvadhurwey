@@ -76,12 +76,6 @@
 -------------------
 
 <p align="center">
-    <a href="http://www.github.com/atharvadhurwey"><img
-            src="https://github-readme-stats.vercel.app/api?username=atharvadhurwey&theme=tokyonight&show_icons=true"
-            alt="atharvadhurwey's GitHub stats" /></a>
-<p>
-
-<p align="center">
     <a href="https://github.com/atharvadhurwey" align="left">
         <img src="https://raw.githubusercontent.com/atharvadhurwey/github-repo-statistics/master/generated/overview.svg#gh-dark-mode-only"
             alt="Top Languages" />
@@ -91,6 +85,14 @@
             alt="Top Languages" />
     </a>
 <p>
+
+<p align="center">
+    <a href="http://www.github.com/atharvadhurwey"><img
+            src="https://github-readme-stats.vercel.app/api?username=atharvadhurwey&theme=tokyonight&show_icons=true"
+            alt="atharvadhurwey's GitHub stats" /></a>
+<p>
+
+
 
 
 <p align="center">
