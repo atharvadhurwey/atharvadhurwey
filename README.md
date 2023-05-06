@@ -95,7 +95,7 @@
 <p>
 
 ### :sparkles: [My followers](src/getTopFollowers.py)
-
+<!--START_SECTION:top-followers-->
 
 <p align="center">
     <br><br>
