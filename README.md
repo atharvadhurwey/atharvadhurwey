@@ -51,7 +51,7 @@
     <br>
 </p>
 
-### :love_you_gesture: [My followers](src/getTopFollowers.py)
+### :love_you_gesture:[My followers](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
 
