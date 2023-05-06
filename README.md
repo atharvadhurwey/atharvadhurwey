@@ -1,7 +1,9 @@
-# Yo 👋, I'm Atharva Dhurwey
+# Yo👋, I'm Atharva Dhurwey
 ### A Passionate Fullstack Developer from India
 
 -------------------
+
+<img src="https://weather-icon.journeyad.repl.co/@bhopal?v=1" width="300"  align='right'>
 
 * 🌍  I'm based in Betul
 * 🖥️  See my portfolio at [COMING SOON](http://https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -10,7 +12,7 @@
 * 👨‍💻  Most of my projects are available on <a href="https://github.com/atharvadhurwey">Github</a>
 * ⚡  Just a student who loves codeing
 
-### Languages & Tools
+### Things I `Code` With
 
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
