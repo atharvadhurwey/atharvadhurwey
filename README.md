@@ -80,7 +80,7 @@
         <img src="https://avatars2.githubusercontent.com/u/99596026" width="100px;" alt="ChndrshP"/>
       </a>
       <br />
-      <a href="https://github.com/ChndrshP">ChndrshP</a>
+      <a href="https://github.com/ChndrshP">Chandresh Patel</a>
     </td>
   </tr>
 </table>
