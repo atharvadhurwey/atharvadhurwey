@@ -13,7 +13,7 @@
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/atharvadhurwey">Github</a>
 - ⚡ Just a student who loves codeing
 
-<br>a
+<br>
 
 ### Things I `Code` With
 
