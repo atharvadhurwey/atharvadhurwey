@@ -51,7 +51,7 @@
     <br>
 </p>
 
-### :love_you_gesture:[My followers](src/getTopFollowers.py)
+### :love_you_gesture:My Followers
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -87,6 +87,8 @@
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
+<br>
 
 <p align="center">
     <emphasis>Y O U &nbsp; C A N &nbsp; F I N D &nbsp; M E &nbsp; ON &nbsp; 😁</emphasis><br>
