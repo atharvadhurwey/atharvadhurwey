@@ -1,4 +1,21 @@
+"""
+   Copyright 2020-2022 Yufan You <https://github.com/ouuan>
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+"""
+
 import requests
+import json
 import sys
 import re
 
@@ -9,28 +26,81 @@ if __name__ == "__main__":
     readmePath = sys.argv[3]
 
     headers = {
-        "Accept": "application/vnd.github.v3+json",
         "Authorization": f"token {token}"
     }
 
     followers = []
+    cursor = None
 
-    for i in range(1, 100000):
-        page = requests.get(f"https://api.github.com/users/{handle}/followers?page={i}&per_page=100", headers = headers).json()
-        if len(page) == 0:
-            break
-        for follower in page:
-            info = requests.get(follower["url"], headers = headers).json()
-            if info["following"] > 10000:
+    while True:
+        query = f'''
+query {{
+    user(login: "{handle}") {{
+        followers(first: 10{f', after: "{cursor}"' if cursor else ''}) {{
+            pageInfo{{
+                endCursor
+                hasNextPage
+            }}
+            nodes {{
+                login
+                name
+                databaseId
+                following {{
+                    totalCount
+                }}
+                repositories(first: 3, isFork: false, orderBy: {{
+                    field: STARGAZERS,
+                    direction: DESC
+                }}) {{
+                    totalCount
+                    nodes {{
+                        stargazerCount
+                    }}
+                }}
+                followers {{
+                    totalCount
+                }}
+                contributionsCollection {{
+                    contributionCalendar {{
+                        totalContributions
+                    }}
+                }}
+            }}
+        }}
+    }}
+}}
+'''
+        response = requests.post(f"https://api.github.com/graphql", json.dumps({ "query": query }), headers = headers)
+        if not response.ok or "data" not in response.json():
+            print(query)
+            print(response.status_code)
+            print(response.text)
+            exit(1)
+        res = response.json()["data"]["user"]["followers"]
+        for follower in res["nodes"]:
+            following = follower["following"]["totalCount"]
+            repoCount = follower["repositories"]["totalCount"]
+            login = follower["login"]
+            name = follower["name"]
+            id = follower["databaseId"]
+            followerNumber = follower["followers"]["totalCount"]
+            thirdStars = follower["repositories"]["nodes"][2]["stargazerCount"] if repoCount >= 3 else 0
+            contributionCount = follower["contributionsCollection"]["contributionCalendar"]["totalContributions"]
+            if following > thirdStars * 50 + repoCount * 5 + followerNumber or contributionCount < 5:
+                print(f"Skipped{'*' if followerNumber > 300 else ''}: https://github.com/{login} with {followerNumber} followers and {following} following")
                 continue
-            followers.append((info["followers"], info["login"], info["id"], info["name"] if info["name"] else info["login"]))
+            followers.append((followerNumber, login, id, name if name else login))
             print(followers[-1])
+        sys.stdout.flush()
+        if not res["pageInfo"]["hasNextPage"]:
+            break
+        cursor = res["pageInfo"]["endCursor"]
 
     followers.sort(reverse = True)
 
     html = "<table>\n"
 
-    for i in range(min(len(followers), 14)):
+    for i in range(min(len(followers), 21)):
         login = followers[i][1]
         id = followers[i][2]
         name = followers[i][3]
