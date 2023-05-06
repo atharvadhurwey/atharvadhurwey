@@ -81,13 +81,11 @@
             alt="atharvadhurwey's GitHub stats" /></a>
 <p>
 
-<p align="center">
-  <br>
-    <a href="https://github.com/atharvadhurwey" align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvadhurwey&theme=tokyonight&layout=compact"
-            alt="Top Languages" />
-    </a>
-</p>
+![](https://raw.githubusercontent.com/atharvadhurwey/github-repo-statistics/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/atharvadhurwey/github-repo-statistics/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/atharvadhurwey/github-repo-statistics/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/atharvadhurwey/github-repo-statistics/master/generated/languages.svg#gh-light-mode-only)
+
 
 <p align="center">
     <br><br>
