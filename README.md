@@ -96,7 +96,8 @@
 
 ### :sparkles: [My followers](src/getTopFollowers.py)
 <!--START_SECTION:top-followers-->
-
+    
+<!--END_SECTION:top-followers-->
 <p align="center">
     <br><br>
     <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:atharvadhurwey"></a>
