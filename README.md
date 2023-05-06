@@ -1,16 +1,17 @@
 # Yo👋, I'm Atharva Dhurwey
+
 ### A Passionate Fullstack Developer from India
 
--------------------
+---
 
 <img src="https://weather-icon.journeyad.repl.co/@bhopal?v=1" width="300"  align='right'>
 
-* 🌍  I'm based in Betul
-* 🖥️  See my portfolio at [COMING SOON](http://https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-* 🧠  Currently learning Flutter and Firebase
-* 🤝  Open to collaborating on Websites
-* 👨‍💻  Most of my projects are available on <a href="https://github.com/atharvadhurwey">Github</a>
-* ⚡  Just a student who loves codeing
+- 🌍 I'm based in Betul
+- 🖥️ See my portfolio at [COMING SOON](http://https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 🧠 Currently learning Flutter and Firebase
+- 🤝 Open to collaborating on Websites
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/atharvadhurwey">Github</a>
+- ⚡ Just a student who loves codeing
 
 ### Things I `Code` With
 
@@ -45,7 +46,14 @@
             src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" /></a>
     <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img
             src="https://skillicons.dev/icons?i=dart" width="45" height="45" alt="Dart" /></a>
+    <br>
 </p>
+
+### :love_you_gesture: [My followers](src/getTopFollowers.py)
+
+<!--START_SECTION:top-followers-->
+
+<!--END_SECTION:top-followers-->
 
 <p align="center">
     <emphasis>Y O U &nbsp; C A N &nbsp; F I N D &nbsp; M E &nbsp; ON &nbsp; 😁</emphasis><br>
@@ -75,7 +83,7 @@
     </a>
 </p>
 
--------------------
+---
 
 <p align="center">
     <a href="https://github.com/atharvadhurwey" align="left">
@@ -94,41 +102,6 @@
             alt="atharvadhurwey's GitHub stats" /></a>
 <p>
 
-### :sparkles: [My followers](src/getTopFollowers.py)
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/deepak05bhilala">
-        <img src="https://avatars2.githubusercontent.com/u/61654121" width="100px;" alt="deepak05bhilala"/>
-      </a>
-      <br />
-      <a href="https://github.com/deepak05bhilala">deepak05bhilala</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/VishalDhurwey">
-        <img src="https://avatars2.githubusercontent.com/u/48577077" width="100px;" alt="VishalDhurwey"/>
-      </a>
-      <br />
-      <a href="https://github.com/VishalDhurwey">VishalDhurwey</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SakendraSoni">
-        <img src="https://avatars2.githubusercontent.com/u/112503297" width="100px;" alt="SakendraSoni"/>
-      </a>
-      <br />
-      <a href="https://github.com/SakendraSoni">SakendraSoni</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ChndrshP">
-        <img src="https://avatars2.githubusercontent.com/u/99596026" width="100px;" alt="ChndrshP"/>
-      </a>
-      <br />
-      <a href="https://github.com/ChndrshP">ChndrshP</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
 <p align="center">
     <br><br>
     <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:atharvadhurwey"></a>
