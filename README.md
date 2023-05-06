@@ -81,10 +81,16 @@
             alt="atharvadhurwey's GitHub stats" /></a>
 <p>
 
-![](https://raw.githubusercontent.com/atharvadhurwey/github-repo-statistics/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/atharvadhurwey/github-repo-statistics/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/atharvadhurwey/github-repo-statistics/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/atharvadhurwey/github-repo-statistics/master/generated/languages.svg#gh-light-mode-only)
+<p align="center">
+    <a href="https://github.com/atharvadhurwey" align="left">
+        <img src="https://raw.githubusercontent.com/atharvadhurwey/github-repo-statistics/master/generated/overview.svg#gh-dark-mode-only"
+            alt="Top Languages" />
+    </a>
+    <a href="https://github.com/atharvadhurwey" align="left">
+        <img src="https://raw.githubusercontent.com/atharvadhurwey/github-repo-statistics/master/generated/languages.svg#gh-dark-mode-only"
+            alt="Top Languages" />
+    </a>
+<p>
 
 
 <p align="center">
