@@ -54,7 +54,38 @@
 ### :love_you_gesture:[My followers](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/deepak05bhilala">
+        <img src="https://avatars2.githubusercontent.com/u/61654121" width="100px;" alt="deepak05bhilala"/>
+      </a>
+      <br />
+      <a href="https://github.com/deepak05bhilala">deepak05bhilala</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/VishalDhurwey">
+        <img src="https://avatars2.githubusercontent.com/u/48577077" width="100px;" alt="VishalDhurwey"/>
+      </a>
+      <br />
+      <a href="https://github.com/VishalDhurwey">VishalDhurwey</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SakendraSoni">
+        <img src="https://avatars2.githubusercontent.com/u/112503297" width="100px;" alt="SakendraSoni"/>
+      </a>
+      <br />
+      <a href="https://github.com/SakendraSoni">SakendraSoni</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ChndrshP">
+        <img src="https://avatars2.githubusercontent.com/u/99596026" width="100px;" alt="ChndrshP"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChndrshP">ChndrshP</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 <p align="center">
