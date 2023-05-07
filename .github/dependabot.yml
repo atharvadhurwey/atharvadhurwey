@@ -5,5 +5,5 @@ updates:
   schedule:
     interval: daily
     time: "20:10"
-    timezone: IST
+    timezone: Asia/Kolkata
   open-pull-requests-limit: 10
