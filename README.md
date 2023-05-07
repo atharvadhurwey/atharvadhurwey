@@ -131,6 +131,12 @@
 
 <p align="center">
     <a href="http://www.github.com/atharvadhurwey"><img
+            src="https://github-readme-streak-stats.herokuapp.com/?user=atharvadhurwey&theme=tokyonight&hide_border=false"
+            alt="atharvadhurwey's GitHub Streak" /></a>
+<p>
+
+<p align="center">
+    <a href="http://www.github.com/atharvadhurwey"><img
             src="https://github-readme-stats.vercel.app/api?username=atharvadhurwey&theme=tokyonight&show_icons=true"
             alt="atharvadhurwey's GitHub stats" /></a>
 <p>
