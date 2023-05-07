@@ -41,7 +41,7 @@
             width="45" height="45" alt="Figma" /></a>
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img
             src="https://skillicons.dev/icons?i=photoshop" width="45" height="45" alt="Photoshop" /></a>
-    <a href="hhttps://api.flutter.dev/index.html" target="_blank" rel="noreferrer"><img
+    <a href="https://api.flutter.dev/index.html" target="_blank" rel="noreferrer"><img
             src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" /></a>
     <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img
             src="https://skillicons.dev/icons?i=dart" width="45" height="45" alt="Dart" /></a>
