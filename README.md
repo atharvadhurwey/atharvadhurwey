@@ -1,18 +1,18 @@
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=28&duration=1200&pause=100&color=0047FF&background=FFFFFF00&multiline=true&repeat=false&width=750&height=80&lines=Yo%F0%9F%91%8B%2C+I'm+Atharva+Dhurwey;A+Passionate+Fullstack+Developer+from+India)
 
-<img src="https://weather-icon.journeyad.repl.co/@bhopal?v=1" align='right'>
+<img src="https://weather-icon.journeyad.repl.co/@india?v=1" align='right'>
 
 - 🌍 I'm based in Betul
 - 🖥️ See my portfolio at [COMING SOON](http://https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - 🧠 Currently learning Flutter and Firebase
 - 🤝 Open to collaborating on Websites
-- 👨‍💻 Most of my projects are available on <a href="https://github.com/atharvadhurwey">Github</a>
+- :octocat: Most of my projects are available on <a href="https://github.com/atharvadhurwey">Github</a>
 - ⚡ Just a student who loves codeing
 
 <br>
 
-### Things I `Code` With
+### 👨‍💻 Things I `Code` With
 
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
@@ -49,7 +49,7 @@
 
 <br>
 
-### :love_you_gesture:My Followers
+### :love_you_gesture: My Followers
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -127,12 +127,6 @@
         <img src="https://raw.githubusercontent.com/atharvadhurwey/github-repo-statistics/master/generated/languages.svg#gh-dark-mode-only"
             alt="Top Languages" />
     </a>
-<p>
-
-<p align="center">
-    <a href="http://www.github.com/atharvadhurwey"><img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=atharvadhurwey&theme=tokyonight&hide_border=false"
-            alt="atharvadhurwey's GitHub Streak" /></a>
 <p>
 
 <p align="center">
