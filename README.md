@@ -76,6 +76,13 @@
       <a href="https://github.com/SakendraSoni">SakendraSoni</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Naman-Gayakwad">
+        <img src="https://avatars2.githubusercontent.com/u/110586020" width="100px;" alt="Naman-Gayakwad"/>
+      </a>
+      <br />
+      <a href="https://github.com/Naman-Gayakwad">Naman-Gayakwad</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ChndrshP">
         <img src="https://avatars2.githubusercontent.com/u/99596026" width="100px;" alt="ChndrshP"/>
       </a>
@@ -88,6 +95,13 @@
       </a>
       <br />
       <a href="https://github.com/SenpaiKun6260">SenpaiKun6260</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Chandraguptaempire">
+        <img src="https://avatars2.githubusercontent.com/u/132930906" width="100px;" alt="Chandraguptaempire"/>
+      </a>
+      <br />
+      <a href="https://github.com/Chandraguptaempire">Chandraguptaempire</a>
     </td>
   </tr>
 </table>
