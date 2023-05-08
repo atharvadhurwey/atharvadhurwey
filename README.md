@@ -136,13 +136,13 @@
         <img src="https://raw.githubusercontent.com/atharvadhurwey/github-repo-statistics/master/generated/languages.svg#gh-dark-mode-only"
             alt="Top Languages" />
     </a>
-<p>
+</p>
 
 <p align="center">
     <a href="http://www.github.com/atharvadhurwey"><img
             src="https://github-readme-stats.vercel.app/api?username=atharvadhurwey&theme=tokyonight&show_icons=true"
             alt="atharvadhurwey's GitHub stats" /></a>
-<p>
+</p>
 
 <p align="center">
     <br><br>
