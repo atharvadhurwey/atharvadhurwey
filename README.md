@@ -1,7 +1,5 @@
 
-<
-
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=28&duration=1200&pause=100&color=0047FF&background=FFFFFF00&multiline=true&repeat=false&width=750&height=80&lines=Yo%F0%9F%91%8B%2C+I'm+Atharva+Dhurwey;A+Passionate+Fullstack+Developer+from+India)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=28&duration=1200&pause=100&color=628fda&background=FFFFFF00&multiline=true&repeat=false&width=750&height=80&lines=Yo%F0%9F%91%8B%2C+I'm+Atharva+Dhurwey;A+Passionate+Fullstack+Developer+from+India)
 
 <img src="https://weather-icon.journeyad.repl.co/@bhopal?v=1" align='right'>
 
@@ -78,6 +76,13 @@
       <a href="https://github.com/SakendraSoni">SakendraSoni</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Naman-Gayakwad">
+        <img src="https://avatars2.githubusercontent.com/u/110586020" width="100px;" alt="Naman-Gayakwad"/>
+      </a>
+      <br />
+      <a href="https://github.com/Naman-Gayakwad">Naman-Gayakwad</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ChndrshP">
         <img src="https://avatars2.githubusercontent.com/u/99596026" width="100px;" alt="ChndrshP"/>
       </a>
@@ -90,6 +95,13 @@
       </a>
       <br />
       <a href="https://github.com/SenpaiKun6260">SenpaiKun6260</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Chandraguptaempire">
+        <img src="https://avatars2.githubusercontent.com/u/132930906" width="100px;" alt="Chandraguptaempire"/>
+      </a>
+      <br />
+      <a href="https://github.com/Chandraguptaempire">Chandraguptaempire</a>
     </td>
   </tr>
 </table>
@@ -127,7 +139,10 @@
 
 ---
 
-<a href="http://www.github.com/atharvadhurwey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvadhurwey&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- <p align="center">
+    <a href="http://www.github.com/atharvadhurwey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvadhurwey&theme=tokyonight" />
+    </a>
+</p> -->
 
 <p align="center">
     <a href="https://github.com/atharvadhurwey" align="left">
