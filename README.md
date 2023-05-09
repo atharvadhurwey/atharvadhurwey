@@ -139,7 +139,10 @@
 
 ---
 
-<a href="http://www.github.com/atharvadhurwey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvadhurwey&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- <p align="center">
+    <a href="http://www.github.com/atharvadhurwey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvadhurwey&theme=tokyonight" />
+    </a>
+</p> -->
 
 <p align="center">
     <a href="https://github.com/atharvadhurwey" align="left">
