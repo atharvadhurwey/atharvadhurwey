@@ -55,6 +55,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/Naman-Gayakwad">
+        <img src="https://avatars2.githubusercontent.com/u/110586020" width="100px;" alt="Naman-Gayakwad"/>
+      </a>
+      <br />
+      <a href="https://github.com/Naman-Gayakwad">Naman-Gayakwad</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/deepak05bhilala">
         <img src="https://avatars2.githubusercontent.com/u/61654121" width="100px;" alt="deepak05bhilala"/>
       </a>
@@ -81,13 +88,6 @@
       </a>
       <br />
       <a href="https://github.com/SakendraSoni">SakendraSoni</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Naman-Gayakwad">
-        <img src="https://avatars2.githubusercontent.com/u/110586020" width="100px;" alt="Naman-Gayakwad"/>
-      </a>
-      <br />
-      <a href="https://github.com/Naman-Gayakwad">Naman-Gayakwad</a>
     </td>
     <td align="center">
       <a href="https://github.com/ChndrshP">
