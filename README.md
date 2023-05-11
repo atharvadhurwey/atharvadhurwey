@@ -158,7 +158,8 @@
 <p align="center">
     <a href="http://www.github.com/atharvadhurwey"><img
             src="https://github-readme-stats.vercel.app/api?username=atharvadhurwey&theme=tokyonight&show_icons=true"
-            alt="atharvadhurwey's GitHub stats" /></a>
+            alt="atharvadhurwey's GitHub stats" />
+    </a>
 </p>
 
 <p align="center">
