@@ -62,6 +62,13 @@
       <a href="https://github.com/Naman-Gayakwad">Naman-Gayakwad</a>
     </td>
     <td align="center">
+      <a href="https://github.com/DivyanshuNexus">
+        <img src="https://avatars2.githubusercontent.com/u/133777635" width="100px;" alt="DivyanshuNexus"/>
+      </a>
+      <br />
+      <a href="https://github.com/DivyanshuNexus">Divyanshu</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/deepak05bhilala">
         <img src="https://avatars2.githubusercontent.com/u/61654121" width="100px;" alt="deepak05bhilala"/>
       </a>
@@ -96,6 +103,8 @@
       <br />
       <a href="https://github.com/ChndrshP">Chandresh Patel</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Chandraguptaempire">
         <img src="https://avatars2.githubusercontent.com/u/132930906" width="100px;" alt="Chandraguptaempire"/>
