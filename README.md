@@ -161,6 +161,8 @@
     </a>
 </p>
 
+
+<!-- anime profile views -->
 <p align="center">
     <br><br>
     <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:atharvadhurwey"></a>
