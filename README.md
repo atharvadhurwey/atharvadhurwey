@@ -171,13 +171,7 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="http://www.github.com/atharvadhurwey">
-        <img src="[https://github-readme-stats.vercel.app/api?username=atharvadhurwey&show_icons=true&theme=tokyonight&show_icons=true](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)" alt="atharvadhurwey's GitHub stats" />
-    </a>
-</p>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+:-:[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!-- anime profile views -->
 <p align="center">
