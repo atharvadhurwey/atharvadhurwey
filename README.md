@@ -171,7 +171,7 @@
     </a>
 </p>
 
-<!-- make you own quote making repo
+<!-- make you own quote making repo (do it as soon as possible
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 <!-- anime profile views -->
