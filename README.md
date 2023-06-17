@@ -47,6 +47,8 @@
             src="https://skillicons.dev/icons?i=dart" width="45" height="45" alt="Dart" /></a>
         <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img
             src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Dart" /></a>
+            <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img
+            src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Dart" /></a>
 </p>
 
 <br>
