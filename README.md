@@ -59,11 +59,11 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Naman-Gayakwad">
-        <img src="https://avatars2.githubusercontent.com/u/110586020" width="100px;" alt="Naman-Gayakwad"/>
+      <a href="https://github.com/NamanGayakwad">
+        <img src="https://avatars2.githubusercontent.com/u/110586020" width="100px;" alt="NamanGayakwad"/>
       </a>
       <br />
-      <a href="https://github.com/Naman-Gayakwad">Naman-Gayakwad</a>
+      <a href="https://github.com/NamanGayakwad">Naman Gayakwad</a>
     </td>
     <td align="center">
       <a href="https://github.com/DivyanshuNexus">
