@@ -59,18 +59,11 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/NamanGayakwad">
-        <img src="https://avatars2.githubusercontent.com/u/110586020" width="100px;" alt="NamanGayakwad"/>
+      <a href="https://github.com/Naman-Gayakwad">
+        <img src="https://avatars2.githubusercontent.com/u/110586020" width="100px;" alt="Naman-Gayakwad"/>
       </a>
       <br />
-      <a href="https://github.com/NamanGayakwad">Naman Gayakwad</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DivyanshuNexus">
-        <img src="https://avatars2.githubusercontent.com/u/133777635" width="100px;" alt="DivyanshuNexus"/>
-      </a>
-      <br />
-      <a href="https://github.com/DivyanshuNexus">Divyanshu</a>
+      <a href="https://github.com/Naman-Gayakwad">Naman Gayakwad</a>
     </td>
     <td align="center">
       <a href="https://github.com/ChndrshP">
@@ -80,6 +73,13 @@
       <a href="https://github.com/ChndrshP">Chandresh Patel</a>
     </td>
     <td align="center">
+      <a href="https://github.com/DivyanshuNexus">
+        <img src="https://avatars2.githubusercontent.com/u/133777635" width="100px;" alt="DivyanshuNexus"/>
+      </a>
+      <br />
+      <a href="https://github.com/DivyanshuNexus">Divyanshu</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/deepak05bhilala">
         <img src="https://avatars2.githubusercontent.com/u/61654121" width="100px;" alt="deepak05bhilala"/>
       </a>
@@ -87,11 +87,18 @@
       <a href="https://github.com/deepak05bhilala">deepak05bhilala</a>
     </td>
     <td align="center">
+      <a href="https://github.com/craz328">
+        <img src="https://avatars2.githubusercontent.com/u/146523378" width="100px;" alt="craz328"/>
+      </a>
+      <br />
+      <a href="https://github.com/craz328">craz328</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/VishalDhurwey">
         <img src="https://avatars2.githubusercontent.com/u/48577077" width="100px;" alt="VishalDhurwey"/>
       </a>
       <br />
-      <a href="https://github.com/VishalDhurwey">VishalDhurwey</a>
+      <a href="https://github.com/VishalDhurwey">Vishal Dhurwey</a>
     </td>
     <td align="center">
       <a href="https://github.com/SenpaiKun6260">
@@ -100,6 +107,8 @@
       <br />
       <a href="https://github.com/SenpaiKun6260">SenpaiKun6260</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/SakendraSoni">
         <img src="https://avatars2.githubusercontent.com/u/112503297" width="100px;" alt="SakendraSoni"/>
@@ -107,8 +116,6 @@
       <br />
       <a href="https://github.com/SakendraSoni">SakendraSoni</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Chandraguptaempire">
         <img src="https://avatars2.githubusercontent.com/u/132930906" width="100px;" alt="Chandraguptaempire"/>
