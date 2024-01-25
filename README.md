@@ -123,6 +123,13 @@
       <br />
       <a href="https://github.com/Chandraguptaempire">Chandraguptaempire</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Hitman1867">
+        <img src="https://avatars2.githubusercontent.com/u/108802657" width="100px;" alt="Hitman1867"/>
+      </a>
+      <br />
+      <a href="https://github.com/Hitman1867">rohit kumawat</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
