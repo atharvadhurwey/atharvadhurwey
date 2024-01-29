@@ -59,6 +59,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/ChndrshP">
+        <img src="https://avatars2.githubusercontent.com/u/99596026" width="100px;" alt="ChndrshP"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChndrshP">Chandresh Patel</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Naman-Gayakwad">
         <img src="https://avatars2.githubusercontent.com/u/110586020" width="100px;" alt="Naman-Gayakwad"/>
       </a>
@@ -71,13 +78,6 @@
       </a>
       <br />
       <a href="https://github.com/DivyanshuNexus">Divyanshu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ChndrshP">
-        <img src="https://avatars2.githubusercontent.com/u/99596026" width="100px;" alt="ChndrshP"/>
-      </a>
-      <br />
-      <a href="https://github.com/ChndrshP">Chandresh Patel</a>
     </td>
     <td align="center">
       <a href="https://github.com/Ranjan1231231">
