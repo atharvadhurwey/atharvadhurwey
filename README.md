@@ -66,6 +66,13 @@
       <a href="https://github.com/ChndrshP">Chandresh Patel</a>
     </td>
     <td align="center">
+      <a href="https://github.com/imnotBugs">
+        <img src="https://avatars2.githubusercontent.com/u/130446086" width="100px;" alt="imnotBugs"/>
+      </a>
+      <br />
+      <a href="https://github.com/imnotBugs">Bugs</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Naman-Gayakwad">
         <img src="https://avatars2.githubusercontent.com/u/110586020" width="100px;" alt="Naman-Gayakwad"/>
       </a>
@@ -100,6 +107,8 @@
       <br />
       <a href="https://github.com/craz328">craz328</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/VishalDhurwey">
         <img src="https://avatars2.githubusercontent.com/u/48577077" width="100px;" alt="VishalDhurwey"/>
@@ -107,8 +116,6 @@
       <br />
       <a href="https://github.com/VishalDhurwey">Vishal Dhurwey</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/SenpaiKun6260">
         <img src="https://avatars2.githubusercontent.com/u/132827900" width="100px;" alt="SenpaiKun6260"/>
