@@ -59,6 +59,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/DivyanshuNexus">
+        <img src="https://avatars2.githubusercontent.com/u/133777635" width="100px;" alt="DivyanshuNexus"/>
+      </a>
+      <br />
+      <a href="https://github.com/DivyanshuNexus">Divyanshu</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ChndrshP">
         <img src="https://avatars2.githubusercontent.com/u/99596026" width="100px;" alt="ChndrshP"/>
       </a>
@@ -71,13 +78,6 @@
       </a>
       <br />
       <a href="https://github.com/imnotBugs">Bugs</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DivyanshuNexus">
-        <img src="https://avatars2.githubusercontent.com/u/133777635" width="100px;" alt="DivyanshuNexus"/>
-      </a>
-      <br />
-      <a href="https://github.com/DivyanshuNexus">Divyanshu</a>
     </td>
     <td align="center">
       <a href="https://github.com/Naman-Gayakwad">
@@ -94,11 +94,11 @@
       <a href="https://github.com/Ranjan1231231">JYOTI RANJAN SUTAR</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Hitman1867">
-        <img src="https://avatars2.githubusercontent.com/u/108802657" width="100px;" alt="Hitman1867"/>
+      <a href="https://github.com/Rohit1867">
+        <img src="https://avatars2.githubusercontent.com/u/108802657" width="100px;" alt="Rohit1867"/>
       </a>
       <br />
-      <a href="https://github.com/Hitman1867">rohit kumawat</a>
+      <a href="https://github.com/Rohit1867">Rohit Kumawat</a>
     </td>
     <td align="center">
       <a href="https://github.com/deepak05bhilala">
