@@ -59,18 +59,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/DivyanshuNexus">
-        <img src="https://avatars2.githubusercontent.com/u/133777635" width="100px;" alt="DivyanshuNexus"/>
-      </a>
-      <br />
-      <a href="https://github.com/DivyanshuNexus">Divyanshu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ChndrshP">
         <img src="https://avatars2.githubusercontent.com/u/99596026" width="100px;" alt="ChndrshP"/>
       </a>
       <br />
       <a href="https://github.com/ChndrshP">Chandresh Patel</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DivyanshuNexus">
+        <img src="https://avatars2.githubusercontent.com/u/133777635" width="100px;" alt="DivyanshuNexus"/>
+      </a>
+      <br />
+      <a href="https://github.com/DivyanshuNexus">Divyanshu</a>
     </td>
     <td align="center">
       <a href="https://github.com/imnotBugs">
@@ -94,12 +94,21 @@
       <a href="https://github.com/Ranjan1231231">JYOTI RANJAN SUTAR</a>
     </td>
     <td align="center">
+      <a href="https://github.com/SakendraSoni">
+        <img src="https://avatars2.githubusercontent.com/u/112503297" width="100px;" alt="SakendraSoni"/>
+      </a>
+      <br />
+      <a href="https://github.com/SakendraSoni">SakendraSoni</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Rohit1867">
         <img src="https://avatars2.githubusercontent.com/u/108802657" width="100px;" alt="Rohit1867"/>
       </a>
       <br />
       <a href="https://github.com/Rohit1867">Rohit Kumawat</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/deepak05bhilala">
         <img src="https://avatars2.githubusercontent.com/u/61654121" width="100px;" alt="deepak05bhilala"/>
@@ -107,8 +116,6 @@
       <br />
       <a href="https://github.com/deepak05bhilala">deepak05bhilala</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/craz328">
         <img src="https://avatars2.githubusercontent.com/u/146523378" width="100px;" alt="craz328"/>
@@ -129,13 +136,6 @@
       </a>
       <br />
       <a href="https://github.com/SenpaiKun6260">SenpaiKun6260</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SakendraSoni">
-        <img src="https://avatars2.githubusercontent.com/u/112503297" width="100px;" alt="SakendraSoni"/>
-      </a>
-      <br />
-      <a href="https://github.com/SakendraSoni">SakendraSoni</a>
     </td>
     <td align="center">
       <a href="https://github.com/Chandraguptaempire">
