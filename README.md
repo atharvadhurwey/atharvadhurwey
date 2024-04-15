@@ -59,18 +59,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ChndrshP">
-        <img src="https://avatars2.githubusercontent.com/u/99596026" width="100px;" alt="ChndrshP"/>
-      </a>
-      <br />
-      <a href="https://github.com/ChndrshP">Chandresh Patel</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/imnotBugs">
         <img src="https://avatars2.githubusercontent.com/u/130446086" width="100px;" alt="imnotBugs"/>
       </a>
       <br />
       <a href="https://github.com/imnotBugs">Bugs</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ChndrshP">
+        <img src="https://avatars2.githubusercontent.com/u/99596026" width="100px;" alt="ChndrshP"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChndrshP">Chandresh Patel</a>
     </td>
     <td align="center">
       <a href="https://github.com/DivyanshuNexus">
