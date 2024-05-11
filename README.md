@@ -87,18 +87,18 @@
       <a href="https://github.com/Naman-Gayakwad">Naman Gayakwad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ranjan1231231">
-        <img src="https://avatars2.githubusercontent.com/u/89583677" width="100px;" alt="Ranjan1231231"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ranjan1231231">JYOTI RANJAN SUTAR</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/SakendraSoni">
         <img src="https://avatars2.githubusercontent.com/u/112503297" width="100px;" alt="SakendraSoni"/>
       </a>
       <br />
       <a href="https://github.com/SakendraSoni">SakendraSoni</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ranjan1231231">
+        <img src="https://avatars2.githubusercontent.com/u/89583677" width="100px;" alt="Ranjan1231231"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ranjan1231231">JYOTI RANJAN SUTAR</a>
     </td>
     <td align="center">
       <a href="https://github.com/Rohit1867">
