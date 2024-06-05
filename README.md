@@ -80,18 +80,18 @@
       <a href="https://github.com/DivyanshuNexus">Divyanshu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Naman-Gayakwad">
-        <img src="https://avatars2.githubusercontent.com/u/110586020" width="100px;" alt="Naman-Gayakwad"/>
-      </a>
-      <br />
-      <a href="https://github.com/Naman-Gayakwad">Naman Gayakwad</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/SakendraSoni">
         <img src="https://avatars2.githubusercontent.com/u/112503297" width="100px;" alt="SakendraSoni"/>
       </a>
       <br />
       <a href="https://github.com/SakendraSoni">SakendraSoni</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Naman-Gayakwad">
+        <img src="https://avatars2.githubusercontent.com/u/110586020" width="100px;" alt="Naman-Gayakwad"/>
+      </a>
+      <br />
+      <a href="https://github.com/Naman-Gayakwad">Naman Gayakwad</a>
     </td>
     <td align="center">
       <a href="https://github.com/Ranjan1231231">
