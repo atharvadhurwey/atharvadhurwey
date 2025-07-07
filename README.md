@@ -1,8 +1,6 @@
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=28&duration=1200&pause=100&color=628fda&background=FFFFFF00&multiline=true&repeat=false&width=750&height=80&lines=Yo%F0%9F%91%8B%2C+I'm+Atharva+Dhurwey;A+Passionate+Fullstack+Developer+from+India)
 
-<img src="https://weather-icon.journeyad.repl.co/@bhopal?v=1" align='right'>
-
 - 🌍 I'm based in Betul
 - 🖥️ See my portfolio [Here](https://threejs-portfolio-five-lemon.vercel.app/)
 - 🤝 Open to collaborating on Websites
