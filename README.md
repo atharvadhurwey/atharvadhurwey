@@ -5,7 +5,6 @@
 
 - 🌍 I'm based in Betul
 - 🖥️ See my portfolio [Here](https://threejs-portfolio-five-lemon.vercel.app/)
-- 🧠 Currently learning Flutter and Firebase
 - 🤝 Open to collaborating on Websites
 - :octocat: Most of my projects are available on <a href="https://github.com/atharvadhurwey">Github</a>
 - ⚡ Just a student who loves codeing
