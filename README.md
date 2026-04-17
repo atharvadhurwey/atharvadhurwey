@@ -9,6 +9,7 @@
 
 <br>
 
+<!--
 ### 👨‍💻 Things I `Code` With
 
 <p align="left">
@@ -49,7 +50,7 @@
 </p>
 
 <br>
-
+-->
 ### :love_you_gesture: My Followers
 
 <!--START_SECTION:top-followers-->
